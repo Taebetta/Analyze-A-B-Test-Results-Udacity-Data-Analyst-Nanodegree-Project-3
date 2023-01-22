@@ -10,7 +10,6 @@
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Project Instruction](#instruction)
-- [Project Submission](#submission)
 - [Result](#result)
 
 ## Introduction <a name="Introduction"></a>
